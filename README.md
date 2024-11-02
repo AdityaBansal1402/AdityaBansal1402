@@ -33,11 +33,11 @@
 # Hello There <img align="right" alt="GIF" height="160px" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' />
 🤗 I’m a Full Stack Developer
   
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot** (also trying to learn Phaser)
 
 - 📫 How to reach me **bansaladitya3009@gmail.com**
 
-- 🔮Future Goals - Going to keep on learning new things
+- 🔮Future Goals - Going to keep on learning new things 
 
 - ⚡ Fun fact **I love to Crochet 🧶**
 
